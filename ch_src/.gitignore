@@ -1,0 +1,11 @@
+# *
+obj/*
+bin/*
+
+# executables
+*.exe
+*.out
+
+# vim swap files
+*.swp
+*.swo
